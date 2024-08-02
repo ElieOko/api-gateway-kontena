@@ -18,7 +18,7 @@ export function axiosRequestServerRh(token?:string){
         "X-Requested-With"  :   "XMLHttpRequest",
         "Authorization"     :   `Bearer ${token}`       
             }
-          }).defaults  
+          })  
 }
 
 export function axiosRequestServerFinance(token?:string){
@@ -32,7 +32,7 @@ export function axiosRequestServerFinance(token?:string){
         "X-Requested-With"  :   "XMLHttpRequest",
         "Authorization"     :   `Bearer ${token}`       
             }
-        }).defaults  
+        })  
 }
 
 export function axiosRequestServerManufacturation(token?:string){
@@ -46,7 +46,7 @@ export function axiosRequestServerManufacturation(token?:string){
         "X-Requested-With"  :   "XMLHttpRequest",
         "Authorization"     :   `Bearer ${token}`       
             }
-        }).defaults  
+        })  
 }
 
 export function axiosRequestServerAchat(token?:string){
@@ -60,7 +60,7 @@ export function axiosRequestServerAchat(token?:string){
         "X-Requested-With"  :   "XMLHttpRequest",
         "Authorization"     :   `Bearer ${token}`       
             }
-        }).defaults  
+        })  
 }
 
 export function axiosRequestServerVente(token?:string){
@@ -74,7 +74,7 @@ export function axiosRequestServerVente(token?:string){
         "X-Requested-With"  :   "XMLHttpRequest",
         "Authorization"     :   `Bearer ${token}`       
             }
-        }).defaults  
+        })  
 }
 
 export function axiosRequestServerStockInventory(token?:string){
@@ -88,5 +88,5 @@ export function axiosRequestServerStockInventory(token?:string){
         "X-Requested-With"  :   "XMLHttpRequest",
         "Authorization"     :   `Bearer ${token}`       
             }
-        }).defaults  
+        })  
 }
