@@ -3,9 +3,10 @@
     "compilerOptions": {
         "allowJs": true,
         "checkJs": true,
-        "outDir": "dist"
+        "outDir": "dist",
+        "esModuleInterop": true,
       },
-    "include": ["src/**/*"],
+    "include": ["src/**/*", "src/worker.import.js", "src/worker.import.js"],
     "exclude": ["node_modules"]
   }
   

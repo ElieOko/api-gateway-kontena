@@ -13,7 +13,9 @@
     "axios": "^1.7.2",
     "cors": "^2.8.5",
     "express": "^4.19.2",
+    "helmet": "^7.1.0",
     "mongoose": "^8.5.1",
+    "morgan": "^1.10.0",
     "typescript": "^5.5.4"
   },
   "devDependencies": {
@@ -25,6 +27,8 @@
     "@typescript-eslint/parser": "^7.17.0",
     "eslint": "^8.57.0",
     "joi-to-typescript": "^4.13.0",
+    "ts-node": "^10.9.2",
+    "tslib": "^2.6.3",
     "tsx": "^4.16.2"
   }
 }
