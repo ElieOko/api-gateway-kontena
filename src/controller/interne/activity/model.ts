@@ -1,0 +1,53 @@
+import { logger } from "../../../config/log/logger";
+import { Activity } from "../../../database/mongo";
+import { IActivity } from "../../../utils/interface/user/IActivity";
+
+export async function create(data : IActivity) {
+    const activity = new Activity(data)
+    try {
+        const result = await activity.save();
+        console.log("Success")
+        return result
+    } catch (error : any) {
+        logger.error(`activity|${error.message}`)
+        console.log(error.message); 
+        return {errors : error.message,message:error.message}
+    }  
+}
+export async function update(data : IActivity,id:string){
+    const state = await Activity.findByIdAndUpdate(id,{$set:data},{new:true})
+    return state
+}
+export async function getAll(){
+    const pageNumber = 2;
+    const pageSize = 100000;
+    const data = await Activity.find()
+    .limit(pageSize)
+    .select('-_id');
+    return data;
+}
+export function countData(){
+    let size : any="" ;
+    (async()=>{
+    size = await getAll();
+    })()
+    return size.length
+}
+export async function remove(id: string){
+    const state = await Activity.findByIdAndDelete(id);
+    return state;
+}
+
+export async function getById(id : string){
+    const state = await Activity.findOne({_id:id});
+    return state;
+}
+
+
+module.exports = {
+    remove,
+    update,
+    create,
+    getAll,
+    getById
+};

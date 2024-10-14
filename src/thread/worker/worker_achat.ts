@@ -28,7 +28,7 @@ export const createUserExtend = async () => {
   })();
   
 
-export  const serviceAchat = async() => {
+export  const workerTask = async() => {
     let wk = workerTs(__filename, {
         workerData: [1, 2, 3, 4, 5, 6, 7, 8, 9]
     });

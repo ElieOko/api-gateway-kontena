@@ -1,0 +1,66 @@
+{"level":"error","message":"Access denied. No token provided"}
+{"level":"error","message":"enterprise|E11000 duplicate key error collection: core-main.enterprises index: name_1 dup key: { name: \"kotlin123\" }"}
+{"level":"error","message":"Promesse rejetée non gérée à [object Promise], raison: AxiosError: Request failed with status code 404"}
+{"level":"error","message":"Promesse rejetée non gérée à [object Promise], raison: AxiosError: Request failed with status code 404"}
+{"level":"error","message":"Promesse rejetée non gérée à [object Promise], raison: AxiosError: Request failed with status code 404"}
+{"level":"error","message":"Promesse rejetée non gérée à [object Promise], raison: AxiosError: Request failed with status code 404"}
+{"level":"error","message":"Promesse rejetée non gérée à [object Promise], raison: AxiosError: Request failed with status code 404"}
+{"level":"error","message":"Promesse rejetée non gérée à [object Promise], raison: AxiosError: Request failed with status code 404"}
+{"level":"error","message":"Promesse rejetée non gérée à [object Promise], raison: AxiosError: Request failed with status code 404"}
+{"level":"error","message":"Promesse rejetée non gérée à [object Promise], raison: Error: connect ECONNREFUSED 127.0.0.1:7000"}
+{"level":"error","message":"Promesse rejetée non gérée à [object Promise], raison: Error: connect ECONNREFUSED 127.0.0.1:7000"}
+{"level":"error","message":"Promesse rejetée non gérée à [object Promise], raison: Error: connect ECONNREFUSED 127.0.0.1:7000"}
+{"level":"error","message":"Promesse rejetée non gérée à [object Promise], raison: Error: socket hang up"}
+{"level":"error","message":"Promesse rejetée non gérée à [object Promise], raison: Error: connect ECONNREFUSED 127.0.0.1:8500"}
+{"level":"error","message":"Promesse rejetée non gérée à [object Promise], raison: Error: connect ECONNREFUSED 127.0.0.1:8500"}
+{"level":"error","message":"Promesse rejetée non gérée à [object Promise], raison: Error: connect ECONNREFUSED 127.0.0.1:8500"}
+{"level":"error","message":"Promesse rejetée non gérée à [object Promise], raison: Error: connect ECONNREFUSED 127.0.0.1:8500"}
+{"level":"error","message":"Promesse rejetée non gérée à [object Promise], raison: Error: connect ECONNREFUSED 127.0.0.1:8500"}
+{"level":"error","message":"Promesse rejetée non gérée à [object Promise], raison: Error: connect ECONNREFUSED 127.0.0.1:8500"}
+{"level":"error","message":"Promesse rejetée non gérée à [object Promise], raison: Error: connect ECONNREFUSED 127.0.0.1:8500"}
+{"level":"error","message":"Promesse rejetée non gérée à [object Promise], raison: Error: connect ECONNREFUSED 127.0.0.1:8500"}
+{"level":"error","message":"Promesse rejetée non gérée à [object Promise], raison: Error: connect ECONNREFUSED 127.0.0.1:8500"}
+{"level":"error","message":"Promesse rejetée non gérée à [object Promise], raison: Error: connect ECONNREFUSED 127.0.0.1:8500"}
+{"level":"error","message":"Promesse rejetée non gérée à [object Promise], raison: Error: connect ECONNREFUSED 127.0.0.1:8500"}
+{"level":"error","message":"Promesse rejetée non gérée à [object Promise], raison: Error: connect ECONNREFUSED 127.0.0.1:7000"}
+{"level":"error","message":"Promesse rejetée non gérée à [object Promise], raison: Error: connect ECONNREFUSED 127.0.0.1:7000"}
+{"level":"error","message":"Promesse rejetée non gérée à [object Promise], raison: Error: connect ECONNREFUSED 127.0.0.1:7000"}
+{"level":"error","message":"Promesse rejetée non gérée à [object Promise], raison: Error: connect ECONNREFUSED 127.0.0.1:7000"}
+{"level":"error","message":"Promesse rejetée non gérée à [object Promise], raison: Error: connect ECONNREFUSED 127.0.0.1:7000"}
+{"level":"error","message":"Promesse rejetée non gérée à [object Promise], raison: Error: connect ECONNREFUSED 127.0.0.1:8500"}
+{"level":"error","message":"Promesse rejetée non gérée à [object Promise], raison: Error: connect ECONNREFUSED 127.0.0.1:8500"}
+{"level":"error","message":"Promesse rejetée non gérée à [object Promise], raison: Error: connect ECONNREFUSED 127.0.0.1:8500"}
+{"level":"error","message":"Promesse rejetée non gérée à [object Promise], raison: Error: connect ECONNREFUSED 127.0.0.1:8500"}
+{"level":"error","message":"Promesse rejetée non gérée à [object Promise], raison: Error: connect ECONNREFUSED 127.0.0.1:8500"}
+{"level":"error","message":"Promesse rejetée non gérée à [object Promise], raison: Error: connect ECONNREFUSED 127.0.0.1:8500"}
+{"level":"error","message":"Promesse rejetée non gérée à [object Promise], raison: Error: connect ECONNREFUSED 127.0.0.1:8500"}
+{"level":"error","message":"Promesse rejetée non gérée à [object Promise], raison: Error: connect ECONNREFUSED 127.0.0.1:8500"}
+{"level":"error","message":"Promesse rejetée non gérée à [object Promise], raison: Error: connect ECONNREFUSED 127.0.0.1:8500"}
+{"level":"error","message":"Promesse rejetée non gérée à [object Promise], raison: Error: connect ECONNREFUSED 127.0.0.1:8500"}
+{"level":"error","message":"Promesse rejetée non gérée à [object Promise], raison: Error: connect ECONNREFUSED 127.0.0.1:8500"}
+{"level":"error","message":"Promesse rejetée non gérée à [object Promise], raison: Error: connect ECONNREFUSED 127.0.0.1:8500"}
+{"level":"error","message":"Promesse rejetée non gérée à [object Promise], raison: Error: connect ECONNREFUSED 127.0.0.1:8500"}
+{"level":"error","message":"Promesse rejetée non gérée à [object Promise], raison: Error: connect ECONNREFUSED 127.0.0.1:8500"}
+{"level":"error","message":"Promesse rejetée non gérée à [object Promise], raison: Error: connect ECONNREFUSED 127.0.0.1:8500"}
+{"level":"error","message":"Promesse rejetée non gérée à [object Promise], raison: Error: connect ECONNREFUSED 127.0.0.1:8500"}
+{"level":"error","message":"Promesse rejetée non gérée à [object Promise], raison: Error: connect ECONNREFUSED 127.0.0.1:7000"}
+{"level":"error","message":"Promesse rejetée non gérée à [object Promise], raison: Error: connect ECONNREFUSED 127.0.0.1:7000"}
+{"level":"error","message":"Promesse rejetée non gérée à [object Promise], raison: Error: Illegal arguments: string, undefined"}
+{"level":"error","message":"Promesse rejetée non gérée à [object Promise], raison: Error: Illegal arguments: string, undefined"}
+{"level":"error","message":"Promesse rejetée non gérée à [object Promise], raison: Error: connect ECONNREFUSED 127.0.0.1:7000"}
+{"level":"error","message":"Promesse rejetée non gérée à [object Promise], raison: Error: connect ECONNREFUSED 127.0.0.1:7000"}
+{"level":"error","message":"Promesse rejetée non gérée à [object Promise], raison: Error: connect ECONNREFUSED 127.0.0.1:7000"}
+{"level":"error","message":"Promesse rejetée non gérée à [object Promise], raison: Error: connect ECONNREFUSED 127.0.0.1:7000"}
+{"level":"error","message":"Access denied. No token provided"}
+{"level":"error","message":"Access denied. No token provided"}
+{"level":"error","message":"Access denied. No token provided"}
+{"level":"error","message":"Access denied. No token provided"}
+{"level":"error","message":"Access denied. No token provided"}
+{"level":"error","message":"Access denied. No token provided"}
+{"level":"error","message":"Access denied. No token provided"}
+{"level":"error","message":"Access denied. No token provided"}
+{"level":"error","message":"Access denied. No token provided"}
+{"level":"error","message":"Access denied. No token provided"}
+{"level":"error","message":"Promesse rejetée non gérée à [object Promise], raison: Error: connect ECONNREFUSED 127.0.0.1:8500"}
+{"level":"error","message":"Access denied. No token provided"}
+{"level":"error","message":"Access denied. No token provided"}

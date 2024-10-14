@@ -1,0 +1,14 @@
+[
+    {
+        "name" : "Testeur",
+        "code" : "TS",
+        "description" : "Testeur System son importance est de vérifier que tout les aspects techniques fonctionne assez bien.",
+        "level" : 1
+    },
+    {
+        "name" : "Comptable",
+        "code" : "Ca",
+        "description" : "Utilisateur lambda faisant appel au notion de comptabilité dans la plateforme",
+        "level" : 2
+    }
+]
